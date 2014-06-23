@@ -13,5 +13,6 @@
 
 Route::get('/', function()
 {
+  $user = new User();
 	return View::make('hello');
 });
