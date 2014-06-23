@@ -55,7 +55,7 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'tshirt-media',
+			'database'  => 'tshirt_media',
 			'username'  => 'root',
 			'password'  => '',
 			'charset'   => 'utf8',
